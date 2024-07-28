@@ -50,7 +50,7 @@
         <annotations.version>24.1.0</annotations.version>
         <sonar.organization>alapierre</sonar.organization>
         <sonar.host.url>https://sonarcloud.io</sonar.host.url>
-        <bc.version>1.77</bc.version>
+        <bc.version>1.78</bc.version>
         <common-utils.version>1.15</common-utils.version>
     </properties>
 
@@ -186,12 +186,12 @@
             <dependency>
                 <groupId>org.bouncycastle</groupId>
                 <artifactId>bcprov-jdk18on</artifactId>
-                <version>1.77</version>
+                <version>1.78</version>
             </dependency>
             <dependency>
                 <groupId>org.bouncycastle</groupId>
                 <artifactId>bcpkix-jdk18on</artifactId>
-                <version>1.77</version>
+                <version>1.78</version>
             </dependency>
             <dependency>
                 <groupId>io.alapierre.commons</groupId>
